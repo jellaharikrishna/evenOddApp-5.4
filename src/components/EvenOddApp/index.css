@@ -1,0 +1,38 @@
+.bg-container {
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.container {
+  background: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+.heading {
+  font-size: 50px;
+}
+.descrpition {
+  color: #334155;
+  font-size: 25px;
+}
+.paragraph {
+  color: #334155;
+  font-size: 14px;
+}
+.button {
+  height: 30px;
+  width: 120px;
+  font-size: 16px;
+  color: black;
+  font-family: Roboto;
+  background-color: white;
+  border-radius: 8px;
+  border-width: 0px;
+}
